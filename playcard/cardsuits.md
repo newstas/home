@@ -61,4 +61,4 @@
 
 Французская колода | Червы (♥) | Бубны (♦) | Трефы (♣) | Пики (♠)
 --- | ---| ---| ---| ---
- | (Hearts, Cœurs, Copas, Corazones, Herz, Hjärter, Srdce, Hjarta, Harten, Cuori, Cơ) | (Diamonds, Carreaux, Diamantes, Kára, Karo, Ouros, Ruter, Squares, Tigull, Ruiten, Quadri, Rô) | (Clubs, Clovers, Klöver, Kreuz, Kříže, Paus, Tréboles, Trèfles, Lauf, Klaveren, Fiori, Chuồn) | (Spades, Espadas, Listy/Piky, Picas, Pik, Pikes, Piques, Spader, Spadi, Schoppen, Picche, Bích) 
+- | (Hearts, Cœurs, Copas, Corazones, Herz, Hjärter, Srdce, Hjarta, Harten, Cuori, Cơ) | (Diamonds, Carreaux, Diamantes, Kára, Karo, Ouros, Ruter, Squares, Tigull, Ruiten, Quadri, Rô) | (Clubs, Clovers, Klöver, Kreuz, Kříže, Paus, Tréboles, Trèfles, Lauf, Klaveren, Fiori, Chuồn) | (Spades, Espadas, Listy/Piky, Picas, Pik, Pikes, Piques, Spader, Spadi, Schoppen, Picche, Bích) 
