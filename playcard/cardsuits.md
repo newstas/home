@@ -118,6 +118,13 @@
 
 Также возможно найти **французскую колоду из 52 карт с испанскими картинками**. 
 
+
+# Колода «Русский стиль»
+
+**Русский стиль** — колода игральных карт с фигурами в костюмах, повторяющих костюмы участников придворного бала, состоявшегося в феврале 1903 года в Зимнем дворце. 
+
+
+
 Французская колода | Червы (♥) | Бубны (♦) | Трефы (♣) | Пики (♠)
 | --- | ---| ---| ---| --- |
 *фр.* | (Hearts, Cœurs, Copas, Corazones, Herz, Hjärter, Srdce, Hjarta, Harten, Cuori, Cơ) | (Diamonds, Carreaux, Diamantes, Kára, Karo, Ouros, Ruter, Squares, Tigull, Ruiten, Quadri, Rô) | (Clubs, Clovers, Klöver, Kreuz, Kříže, Paus, Tréboles, Trèfles, Lauf, Klaveren, Fiori, Chuồn) | (Spades, Espadas, Listy/Piky, Picas, Pik, Pikes, Piques, Spader, Spadi, Schoppen, Picche, Bích) 
