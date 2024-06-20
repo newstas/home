@@ -9,13 +9,13 @@
 
 # Бубны <span style="red">&#9830;</span> (монеты, пентакли)
 
-**Бубны** — карточная масть ***красного цвета** в форме ромба в стандартных игральных картах французской колоды. Оригинальное французское название масти — «карро» (фр. сarreau), которое восходит к латинскому слову «quadrum», означающему «квадрат» или «прямоугольник». В русском языке название бубны происходит от именования масти на немецком языке — Schellen (то есть бубенчики). 
+**Бубны** — карточная масть ***красного цвета*** в форме ромба в стандартных игральных картах французской колоды. Оригинальное французское название масти — «карро» (фр. сarreau), которое восходит к латинскому слову «quadrum», означающему «квадрат» или «прямоугольник». В русском языке название бубны происходит от именования масти на немецком языке — Schellen (то есть бубенчики). 
 
 **Монеты** — одна из четырёх мастей в итало-испанской колоде. 
 
 # Пики &#9824; (вини)
 
-Пи́ки (ви́ны) — чёрная карточная масть. Аналоги в других колодах:
+Пи́ки (ви́ны) — ***чёрная карточная масть**. Аналоги в других колодах:
 - в немецкой колоде: листья (нем. Laub)
 - в итало-испанской колоде: мечи
 - в картах таро: мечи или шпаги
@@ -61,4 +61,4 @@
 
 Французская колода | Червы (♥) | Бубны (♦) | Трефы (♣) | Пики (♠)
 | --- | ---| ---| ---| --- |
-| (Hearts, Cœurs, Copas, Corazones, Herz, Hjärter, Srdce, Hjarta, Harten, Cuori, Cơ) | (Diamonds, Carreaux, Diamantes, Kára, Karo, Ouros, Ruter, Squares, Tigull, Ruiten, Quadri, Rô) | (Clubs, Clovers, Klöver, Kreuz, Kříže, Paus, Tréboles, Trèfles, Lauf, Klaveren, Fiori, Chuồn) | (Spades, Espadas, Listy/Piky, Picas, Pik, Pikes, Piques, Spader, Spadi, Schoppen, Picche, Bích) 
+*фр.* | (Hearts, Cœurs, Copas, Corazones, Herz, Hjärter, Srdce, Hjarta, Harten, Cuori, Cơ) | (Diamonds, Carreaux, Diamantes, Kára, Karo, Ouros, Ruter, Squares, Tigull, Ruiten, Quadri, Rô) | (Clubs, Clovers, Klöver, Kreuz, Kříže, Paus, Tréboles, Trèfles, Lauf, Klaveren, Fiori, Chuồn) | (Spades, Espadas, Listy/Piky, Picas, Pik, Pikes, Piques, Spader, Spadi, Schoppen, Picche, Bích) 
