@@ -62,3 +62,16 @@
 Французская колода | Червы (♥) | Бубны (♦) | Трефы (♣) | Пики (♠)
 | --- | ---| ---| ---| --- |
 *фр.* | (Hearts, Cœurs, Copas, Corazones, Herz, Hjärter, Srdce, Hjarta, Harten, Cuori, Cơ) | (Diamonds, Carreaux, Diamantes, Kára, Karo, Ouros, Ruter, Squares, Tigull, Ruiten, Quadri, Rô) | (Clubs, Clovers, Klöver, Kreuz, Kříže, Paus, Tréboles, Trèfles, Lauf, Klaveren, Fiori, Chuồn) | (Spades, Espadas, Listy/Piky, Picas, Pik, Pikes, Piques, Spader, Spadi, Schoppen, Picche, Bích) 
+Немецкая колода | Сердца (Herz) | Бубенцы (Schellen, Kule) | Жёлуди (Eichel, Žaludy) | Листья, трава или зелень (Laub, Gras, Blau, Grün, Blatt, Zelený)
+Швейцарская колода | Розы (Rosen) | Бубенцы (Schellen) | Жёлуди (Eicheln) | Щиты (Schilten)
+Итало-испанская или латинская колода | Кубки (Coppe / Copas) | Монеты (Denari / Oros) | Палицы (Bastoni / Bastos) | Мечи (Spade / Espadas)
+Испанская колода | Кубки (Copas) | Монеты (Oros) | Палицы (Bastos) | Мечи (Espadas)
+Североитальянская колода | Кубки (Coppe / Copas) | Монеты (Denari / Oros) | Палицы (Bastoni / Bastos) | Мечи (Spade / Espadas)
+Карты Таро (Марсельское Таро/Таро Райдера — Уэйта) | Кубки | Пентаграммы, Монеты, Кольца, Диски, Пентакли | Жезлы, Палицы, Пуговицы или Посохи | Мечи 
+Феодальный класс/каста | Духовенство (брахманы) | Купечество (вайшьи) | Крестьянство (шудры) | Военные (кшатрии)
+Стихия (для гадальных карт) | Вода | Земля | Воздух | Огонь
+Стихия (для игральных карт) | Вода | Земля | Огонь | Воздух 
+Ассоциации в карточных гаданиях (зависят от системы карт) | Любовь, эмоции или духовность | Материальные ценности и физическое благополучие | Государство, работа, служба. Творческий энтузиазм, энергия | Рациональный разум, ссоры, проблемы
+
+
+
